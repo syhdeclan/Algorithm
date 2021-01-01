@@ -4,30 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/Year2020/April/Tencent/Main1.java" description="                    if (queue.size() == 0) {&#10;     ..." line="36" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b92e9be4-3576-464e-b733-f783e1462be9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Single/ArrayDequeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/CQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/Didi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/Didi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/HasPathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/IsValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/TencentPP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/TencentPP4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single/syh360_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2020/December/FindNumberIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2020/December/FindRepeatNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2020/December/GetLeastNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2020/December/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2020/December/ReverseLeftWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year2020/May/Tiger1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="b92e9be4-3576-464e-b733-f783e1462be9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Year2020/December/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+            <state relative-caret-position="361">
+              <caret line="50" column="58" lean-forward="true" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -109,6 +86,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -393,16 +371,23 @@
       <workItem from="1593964233238" duration="8143000" />
       <workItem from="1598174752668" duration="4218000" />
       <workItem from="1599393296706" duration="5640000" />
-      <workItem from="1599996785144" duration="15135000" />
+      <workItem from="1599996785144" duration="15477000" />
     </task>
+    <task id="LOCAL-00001" summary="syh">
+      <created>1609467829376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609467829376</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="362163000" />
+    <option name="totallyTimeSpent" value="362505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15450644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -443,6 +428,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="syh" />
+    <option name="LAST_COMMIT_MESSAGE" value="syh" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1107,8 +1096,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Year2020/December/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        <state relative-caret-position="361">
+          <caret line="50" column="58" lean-forward="true" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
         </state>
       </provider>
     </entry>
