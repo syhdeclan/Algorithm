@@ -1,31 +1,24 @@
-package Year2020.December;
-
-import Year2021.January.MergeSort;
+package Year2021.January;
 
 import java.util.Arrays;
-
-/**
- * @author shenyvhao
- * @program Algorithm
- * @description
- * @create 2020-12-27 20
- **/
-
 
 public class QuickSort {
 
     public int partition(int[] arr, int start, int end) {
-        int index = start++;
+        int pos = start;
+        int index = arr[start++];
         while (start < end) {
-            while (arr[start] <= arr[index] && start < end) {
+            while (arr[start] < index && start < end) {
                 start++;
             }
-            while (arr[end] >= arr[index] && start < end) {
+            while (arr[end] > index && start < end) {
                 end--;
             }
-            swap(arr, start, end);
+            if (start < end) {
+                swap(arr,start,end);
+            }
         }
-        swap(arr, index, start - 1);
+        swap(arr,start - 1, pos);
         return start - 1;
     }
 
@@ -36,12 +29,9 @@ public class QuickSort {
     }
 
     public void quickSort(int[] arr, int start, int end) {
-        if (start == end) {
-            return;
-        }
         int index = partition(arr, start, end);
         if (index > start) {
-            quickSort(arr, 0, index - 1);
+            quickSort(arr, start, index);
         }
         if (index < end) {
             quickSort(arr, index + 1, end);
